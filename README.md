@@ -24,7 +24,7 @@ Users should be able to:
 
 ## 🚀 My process
 
-### Built with
+### 💻 Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -35,7 +35,7 @@ Users should be able to:
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-## Author
+## 😎 Author
 
 <a href="https://www.frontendmentor.io/profile/alexguemar">
 </a>
