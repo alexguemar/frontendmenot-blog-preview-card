@@ -54,7 +54,7 @@ This achievement is a reflection of collective effort and shared inspiration!
 
 ## 🤗 Do you have feedback for my project?
 
-I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/3column-preview-a0YkxdbE7Y).
+I would love to receive feedback! I'm always looking to improve my skills. So, if there's anything you'd like to mention, please comment on the [Challenge at Frontendmentor](https://www.frontendmentor.io/solutions/blod-card-gqvfkmtpQb).
 
 ---
 

@@ -81,6 +81,7 @@ a {
 .card-text {
   margin: 15px 0 24px;
   font-size: clamp(14px, 2vw, 16px);
+  color: var(--c-grey);
 }
 
 .card-user {
@@ -95,7 +96,7 @@ a {
 }
 
 .cars-user a {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .attribution {
